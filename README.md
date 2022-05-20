@@ -1,4 +1,7 @@
-### Hi there 👋
+<img align="right" src="https://u.cubeupload.com/Polygon/r2uk2L.png" width="250">
+
+# KazookiTV
+Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS and JS.
 
 <!--
 **KazookiTV/KazookiTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
