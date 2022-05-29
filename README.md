@@ -1,7 +1,8 @@
-<img align="right" src="https://u.cubeupload.com/Polygon/r2uk2L.png" width="150">
+![image](https://user-images.githubusercontent.com/105769130/170855845-6fa2f0c9-7583-4024-bd98-7d2266504539.png)
 
-<img src="https://user-images.githubusercontent.com/105769130/169468291-d7aa5900-295d-4ebc-92d4-3b4519fefbd1.png" width="150">
 Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS and JS.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazookiTV&theme=dracula)
 
 <!--START_SECTION:activity-->
 
