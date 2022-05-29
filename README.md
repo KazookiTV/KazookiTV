@@ -3,6 +3,8 @@
 <img src="https://user-images.githubusercontent.com/105769130/169468291-d7aa5900-295d-4ebc-92d4-3b4519fefbd1.png" width="150">
 Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS and JS.
 
+<!--START_SECTION:activity-->
+
 ## Things I Code With
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,jquery)](https://skillicons.dev)
 
