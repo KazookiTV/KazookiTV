@@ -6,9 +6,7 @@ Hello 👋 I’m Kazooki and I like creating small projects that somehow turn in
 <!--START_SECTION:activity-->
 
 ## Things I Code With
-[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,jquery)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,electron,sass,figma,powershell)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,jquery,nodejs,electron,sass,figma,powershell)](https://skillicons.dev)
 
 ## Things I Coded
 <img align="left" src="https://u.cubeupload.com/Polygon/r2uk2L.png" width="165">
