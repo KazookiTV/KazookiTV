@@ -11,7 +11,7 @@ Hello 👋 I’m Kazooki and I like creating small projects that somehow turn in
 [![My Skills](https://skillicons.dev/icons?i=nodejs,electron,sass,figma,powershell)](https://skillicons.dev)
 
 ## Things I Coded
-<img align="left" src="https://u.cubeupload.com/Polygon/r2uk2L.png" width="150">
+<img align="left" src="https://u.cubeupload.com/Polygon/r2uk2L.png" width="165">
 
 ### Kazooki.github.io
 [Kazooki.github.io](https://interstellar.eu.org) (also known as interstellar) is the personal website for Kazooki.
