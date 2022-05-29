@@ -1,8 +1,6 @@
 ![image](https://user-images.githubusercontent.com/105769130/170855845-6fa2f0c9-7583-4024-bd98-7d2266504539.png)
 
-Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS and JS.
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KazookiTV&theme=dracula)
+Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS, SASS and JS.
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#6824](https://github.com/LLK/scratch-www/issues/6824) in [LLK/scratch-www](https://github.com/LLK/scratch-www)
