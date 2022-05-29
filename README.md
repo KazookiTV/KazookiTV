@@ -15,5 +15,5 @@ Hello 👋 I’m Kazooki and I like creating small projects that somehow turn in
 
 ### Kazooki.github.io
 [Kazooki.github.io](https://interstellar.eu.org) (also known as interstellar) is the personal website for Kazooki.
-
-**Languages & Technologys** 
+#### Languages & Technologys
+`HTML` `CSS` `JS` `JQUERY` `NODEJS` `98.CSS` `CLIPPYJS`
