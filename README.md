@@ -16,7 +16,14 @@ Hello 👋 I’m Kazooki and I like creating small projects that somehow turn in
 ## Things I Coded
 <img align="left" src="https://u.cubeupload.com/Polygon/r2uk2L.png" width="165">
 
-### Kazooki.github.io
-[Kazooki.github.io](https://interstellar.eu.org) (also known as interstellar) is the personal website for Kazooki.
+### Personal Website
+I created my website at [Kazooki.github.io](https://interstellar.eu.org) and i think its pretty good, it has a 90's vibe with the best personal assistant called Clippy and it spits out random scratch facts every one in a while.
 #### Languages & Technologys
 `HTML` `CSS` `JS` `JQUERY` `NODEJS` `98.CSS` `CLIPPYJS`
+
+<img align="left" src="https://avatars.githubusercontent.com/u/106468548" width="165">
+
+### Zetta
+I worked on [Zetta's](https://github.com/zettaware) website as the main developer and its up at [galactic.eu.org](https://galactic.eu.org/).
+#### Languages & Technologys
+`HTML` `CSS` `SASS` `NPM` `NODE`
