@@ -3,11 +3,11 @@
 Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS, SASS and JS.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6824](https://github.com/LLK/scratch-www/issues/6824) in [LLK/scratch-www](https://github.com/LLK/scratch-www)
+1. ❗️ Opened issue [#454](https://github.com/Awesome-Windows/Awesome/issues/454) in [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 2. 🗣 Commented on [#6824](https://github.com/LLK/scratch-www/issues/6824) in [LLK/scratch-www](https://github.com/LLK/scratch-www)
-3. ❗️ Opened issue [#2](https://github.com/MystPi/scratch-tutorials/issues/2) in [MystPi/scratch-tutorials](https://github.com/MystPi/scratch-tutorials)
-4. ❗️ Opened issue [#1](https://github.com/MystPi/scratch-tutorials/issues/1) in [MystPi/scratch-tutorials](https://github.com/MystPi/scratch-tutorials)
-5. 🗣 Commented on [#8343](https://github.com/LLK/scratch-gui/issues/8343) in [LLK/scratch-gui](https://github.com/LLK/scratch-gui)
+3. 🗣 Commented on [#6824](https://github.com/LLK/scratch-www/issues/6824) in [LLK/scratch-www](https://github.com/LLK/scratch-www)
+4. ❗️ Opened issue [#2](https://github.com/MystPi/scratch-tutorials/issues/2) in [MystPi/scratch-tutorials](https://github.com/MystPi/scratch-tutorials)
+5. ❗️ Opened issue [#1](https://github.com/MystPi/scratch-tutorials/issues/1) in [MystPi/scratch-tutorials](https://github.com/MystPi/scratch-tutorials)
 <!--END_SECTION:activity-->
 
 ## Things I Code With
