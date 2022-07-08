@@ -3,10 +3,10 @@
 Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS, SASS and JS.
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/devidw/ghrns/issues/1) in [devidw/ghrns](https://github.com/devidw/ghrns)
-2. ❗️ Opened issue [#1](https://github.com/aspizu/gobomatic/issues/1) in [aspizu/gobomatic](https://github.com/aspizu/gobomatic)
-3. ❗️ Opened issue [#454](https://github.com/Awesome-Windows/Awesome/issues/454) in [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
-4. 🗣 Commented on [#6824](https://github.com/LLK/scratch-www/issues/6824) in [LLK/scratch-www](https://github.com/LLK/scratch-www)
+1. ❗️ Opened issue [#746](https://github.com/powercord-community/suggestions/issues/746) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
+2. ❗️ Opened issue [#1](https://github.com/devidw/ghrns/issues/1) in [devidw/ghrns](https://github.com/devidw/ghrns)
+3. ❗️ Opened issue [#1](https://github.com/aspizu/gobomatic/issues/1) in [aspizu/gobomatic](https://github.com/aspizu/gobomatic)
+4. ❗️ Opened issue [#454](https://github.com/Awesome-Windows/Awesome/issues/454) in [Awesome-Windows/Awesome](https://github.com/Awesome-Windows/Awesome)
 5. 🗣 Commented on [#6824](https://github.com/LLK/scratch-www/issues/6824) in [LLK/scratch-www](https://github.com/LLK/scratch-www)
 <!--END_SECTION:activity-->
 
