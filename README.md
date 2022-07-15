@@ -3,11 +3,11 @@
 Hello 👋 I’m Kazooki and I like creating small projects that somehow turn into massive things! My favourite languages are HTML, CSS, SASS and JS.
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#746](https://github.com/powercord-community/suggestions/issues/746) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
-2. ❗️ Opened issue [#22](https://github.com/Juby210/better-folders/issues/22) in [Juby210/better-folders](https://github.com/Juby210/better-folders)
-3. ❗️ Opened issue [#746](https://github.com/powercord-community/suggestions/issues/746) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
-4. ❗️ Opened issue [#1](https://github.com/devidw/ghrns/issues/1) in [devidw/ghrns](https://github.com/devidw/ghrns)
-5. ❗️ Opened issue [#1](https://github.com/aspizu/gobomatic/issues/1) in [aspizu/gobomatic](https://github.com/aspizu/gobomatic)
+1. 🗣 Commented on [#10](https://github.com/capJavert/clippy-dictionary/issues/10) in [capJavert/clippy-dictionary](https://github.com/capJavert/clippy-dictionary)
+2. 💪 Opened PR [#17](https://github.com/capJavert/clippy-dictionary/pull/17) in [capJavert/clippy-dictionary](https://github.com/capJavert/clippy-dictionary)
+3. 🗣 Commented on [#746](https://github.com/powercord-community/suggestions/issues/746) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
+4. ❗️ Opened issue [#22](https://github.com/Juby210/better-folders/issues/22) in [Juby210/better-folders](https://github.com/Juby210/better-folders)
+5. ❗️ Opened issue [#746](https://github.com/powercord-community/suggestions/issues/746) in [powercord-community/suggestions](https://github.com/powercord-community/suggestions)
 <!--END_SECTION:activity-->
 
 ## Things I Code With
